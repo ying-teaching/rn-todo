@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "src",
+		"path": "../rnbook/Chapter28/TodoMobile/src"
+	},
+	{
+		"name": "rn-todo",
+		"path": "."
+	},
+	{
+		"name": "data",
+		"path": "../rnbook/Chapter28/TodoMobile/data"
+	}
+],
+  "settings": {}
+}
